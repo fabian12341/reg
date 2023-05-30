@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reg_strate">¡Bienvenido!</string>
+    <string name="crea_tu_cuenta">Crea tu cuenta y únete</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="edad">Edad</string>
+    <string name="escuela">Escuela de procedencia</string>
+    <string name="grado">Grado escolar</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirme_contrasena">Confirme su contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_una_cuenta">¿Ya tienes una cuenta? Inicia sesión AQUÍ</string>
+</resources>
